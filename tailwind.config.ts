@@ -17,7 +17,7 @@ const config: Config = {
         'primary-bg': '#d24d12'
       },
       fontFamily: {
-        roboto: ['Roboto']
+        roboto: ['Helvetica Neue', 'Roboto']
       },
       width: {
         hero: "2110px"
